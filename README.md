@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pximg.net/img-master/img/2020/10/07/20/50/05/84864421_p0_master1200.jpg" alt="Azusa"/>
+  <img src="/bg.jpg" alt="Azusa"/>
   Image <a href="https://www.pixiv.net/en/artworks/84864421" target="_blank"><sub><sup>source</sup></sub></a>
 </p>
 
