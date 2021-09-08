@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/bg.jpg" alt="Azusa" style="border-radius:15px" />
+  <img src="/bg.jpg" alt="Azusa"/>
   Image <a href="https://www.pixiv.net/en/artworks/84864421" target="_blank"><sub><sup>source</sup></sub></a>
 </p>
 
